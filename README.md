@@ -16,5 +16,5 @@ Use the command `scrapy runspider <file_name>` to start the spider. The spider w
 
 # Adding domains to domains.txt
 
-Enter the domains that you need the spider to crawl inside this file. Enter the domains in the format '<domain-name><(.com/.net/.org)>'
+Enter the domains that you need the spider to crawl inside this file. Enter the domains in the format `<domain-name>(.com/.net/.org)`
 
