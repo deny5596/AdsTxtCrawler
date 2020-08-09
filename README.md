@@ -1,4 +1,4 @@
-# **Ads.Txt Crawler**
+# ****Ads.Txt Crawler****
 
 A Python Scrapy Project which crawls the specified domains' **ads.txt files** and retrieves the data which is returned in the output as a CSV file.
 
